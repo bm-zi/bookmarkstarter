@@ -1,0 +1,7 @@
+beautifulsoup4
+bs4
+decorator
+lxml
+six
+soupsieve
+validators
